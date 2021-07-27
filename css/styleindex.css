@@ -22,3 +22,13 @@ p {
     border-bottom: 2px solid #f1f1f1;
     padding-bottom: 20px;
 }
+
+head, body{
+    width:100%;
+    height:100%;
+    overflow: hidden;
+    top:0;
+    left:0;
+    margin:0;
+    padding:0;
+}

@@ -1,6 +1,6 @@
 
 import os
-path = '/Users/selmanehabib/Desktop/Lightroom Export/Neuer Ordner/Lightroom Export'
+path = '/Users/selmanehabib/Documents/GitHub/villaflora-events.github.io/images/event2'
 files = os.listdir(path)
 
 
