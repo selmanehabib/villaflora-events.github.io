@@ -1,0 +1,82 @@
+body {
+  margin: 20vw 0px 0px 0px;
+  background-color: black;
+}
+.Stripe0 {
+  position: absolute;
+  margin: 25.75vw 0px 0px 0px;
+  height: 10vw;
+  width: 100%;
+  background: linear-gradient(
+    0deg, 
+    #336699 0%, 
+    black 40%,
+    white 45%
+  ); 
+}
+.Stripe1 {
+  position: absolute;
+  margin: 22.75vw 0px 0px 0px;
+  height: 8vw;
+  width: 100%;
+  background: linear-gradient(
+    0deg, 
+    #336699 0%, 
+    black 40%,
+    white 45%
+  ); 
+}
+.Stripe2 {
+  position: absolute;
+  margin: 20.75vw 0px 0px 0px;
+  height: 6vw;
+  width: 100%;
+  background: linear-gradient(
+    0deg, 
+    #336699 0%, 
+    black 40%,
+    white 45%
+  ); 
+}
+.Stripe3 {
+  position: absolute;
+  margin: 19.75vw 0px 0px 0px;
+  height: 4vw;
+  width: 100%;
+  background: linear-gradient(
+    0deg, 
+    #336699 0%, 
+    black 40%,
+    white 45%
+  ); 
+}
+.Stripe4 {
+  position: absolute;
+  margin: 0px 0px 0px 0px;
+  height: 21.75vw;
+  width: 100%;
+  background: linear-gradient(
+    0deg, 
+    #ff66b3 0%, 
+    black 70%
+  ); 
+}
+.Sun {
+  position: absolute;
+  margin: 13.5vw 0px 0px 0px;
+  height: 8vw;
+  width: 8vw;
+  left: 46.5vw;
+  border-radius: 50%;
+  opacity: 0.7;
+  background: linear-gradient(
+    0deg, 
+    #e65c00 40%, 
+    #ffff66
+  );
+}
+@media (max-width: 600px) {
+  body {
+    transform: scale(4);
+  }
+}
