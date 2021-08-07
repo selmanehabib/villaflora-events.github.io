@@ -48,3 +48,14 @@
     column-count: 5;
   }
 }
+
+.footer a {
+  color:rgb(190, 255, 201);
+  text-decoration:none;
+}
+.footer {
+  width:100%;
+  padding:10vh 0px;
+  text-align:center;
+  font-weight:bold;
+}
